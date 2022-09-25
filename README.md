@@ -1,1 +1,1 @@
-# Lösungen der Aufgaben BDL-01 - BDL-08
+# Solutions for BDL-01-08 assignments

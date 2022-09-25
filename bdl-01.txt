@@ -1,0 +1,8 @@
+manuelfahrenholz@manuelfahrenholz:~$ cd ../../
+manuelfahrenholz@manuelfahrenholz:/$ cd home/
+manuelfahrenholz@manuelfahrenholz:/home$ cd manuelfahrenholz/
+manuelfahrenholz@manuelfahrenholz:~$ cd ../
+manuelfahrenholz@manuelfahrenholz:/home$ 
+manuelfahrenholz@manuelfahrenholz:/home$ the cd command stands for "change directory /verzeichnis ändern"
+manuelfahrenholz@manuelfahrenholz:/home$ bonus: Keyboard shortcut to open terminal = STRG+ALT+T
+

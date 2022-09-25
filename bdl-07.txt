@@ -1,0 +1,19 @@
+Instructions:
+
+Create a directory.
+Inside the directory, create a README.md file.
+Add some text to the file.
+Remove the file.
+Remove the directory.
+
+Solution
+
+manuelfahrenholz@manuelfahrenholz:~$ cd Desktop/ && mkdir test-dir
+manuelfahrenholz@manuelfahrenholz:~/Desktop$ cd test-dir/
+manuelfahrenholz@manuelfahrenholz:~/Desktop/test-dir$ touch README.md
+manuelfahrenholz@manuelfahrenholz:~/Desktop/test-dir$ nano README.md 
+manuelfahrenholz@manuelfahrenholz:~/Desktop/test-dir$ rm README.md 
+manuelfahrenholz@manuelfahrenholz:~/Desktop/test-dir$ cd ../
+manuelfahrenholz@manuelfahrenholz:~/Desktop$ rm -r test-dir/
+manuelfahrenholz@manuelfahrenholz:~/Desktop$ ls
+fbw_wd_22_d07a  nachhilfe  practice-dir  source

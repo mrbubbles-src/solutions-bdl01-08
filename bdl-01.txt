@@ -1,8 +1,19 @@
+Instructions:
+
+Open a terminal. Don't use the system's file manager app.
+Change directories to the root directory.
+From there, go to the home directory.
+Change directories from home (away from root).
+Go back to the last directory you were on.
+What does the command cd stand for? Write down the full command.
+Bonus: Search the keyboard shortcut to open the terminal. Try it out!
+
+Solution:
+
 manuelfahrenholz@manuelfahrenholz:~$ cd ../../
 manuelfahrenholz@manuelfahrenholz:/$ cd home/
 manuelfahrenholz@manuelfahrenholz:/home$ cd manuelfahrenholz/
 manuelfahrenholz@manuelfahrenholz:~$ cd ../
 manuelfahrenholz@manuelfahrenholz:/home$ 
-manuelfahrenholz@manuelfahrenholz:/home$ the cd command stands for "change directory /verzeichnis ändern"
-manuelfahrenholz@manuelfahrenholz:/home$ bonus: Keyboard shortcut to open terminal = STRG+ALT+T
-
+the cd command stands for "change directory /verzeichnis ändern"
+bonus: Keyboard shortcut to open terminal = STRG+ALT+T

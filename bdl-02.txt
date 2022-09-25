@@ -1,0 +1,16 @@
+Instructions:
+
+Open a directory on your computer e.g. Documents.
+List all the contents in the directory.
+Show all hidden folders and files.
+Get details of all files and folders using a command shortcut.
+What command shortcut did you use to see all the details? Write your answer below.
+
+Solution:
+
+Click on Files
+Navigate to e.g. home
+use CTRL+1 to use List-View
+use CTRL+2 to go back to Grid-View
+press hamburger memu in the top right corner and check or uncheck "show hidden files" to show or hide hidden files
+CTRL+1

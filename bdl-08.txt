@@ -1,0 +1,20 @@
+Instructions: Complete all tasks in the terminal
+
+Create a directory named move-it.
+Inside the directory, create a README file and another directory called target.
+Move the README file to the target directory.
+Inside the target directory, create another directory called assets.
+Rename the assets directory to images.
+Remove the move-it directory.
+
+Solution:
+
+manuelfahrenholz@manuelfahrenholz:~$ cd Desktop/ && mkdir move-it
+manuelfahrenholz@manuelfahrenholz:~/Desktop$ cd move-it/
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it$ touch README.md && mkdir target
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it$ cp README.md ./target
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it$ cd target/
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it/target$ mkdir assests
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it/target$ mv assests/ ./images
+manuelfahrenholz@manuelfahrenholz:~/Desktop/move-it/target$ cd ../../
+manuelfahrenholz@manuelfahrenholz:~/Desktop$ rm -r move-it/
